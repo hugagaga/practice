@@ -4,7 +4,7 @@
 **Enter modes:** name **/** file  
   **Name mode:**  
     Enter the name of a specific process name  
-    if found, ask for whether kill it or not,  
+    if found, ask whether kill it or not,  
     othewise continue ask until "quit" entered.  
   **File mode:**  
     Enter the name of file containing a list of process names.  
